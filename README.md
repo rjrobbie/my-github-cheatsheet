@@ -3,7 +3,7 @@
 
 ## Step 1 - Setting up the files
 
-#### Create a new repo in GitHub and git remote add origin https://github.com/rjrobbie/git-practice.git
+##### Create a new repo in GitHub and git remote add origin https://github.com/rjrobbie/git-practice.git
 ### git init - in the new directory I've made in the terminal
 
 ## Step 2 - Tracking files (doesn’t use past tense in commit message)
