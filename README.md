@@ -22,14 +22,14 @@
 ##### git push -u origin new-branch
 ##### Go back to GitHub
 
-## Step 5 - ‘Pull Requests’ 
+### Step 5 - ‘Pull Requests’ 
 
-### Go to the main repo and notice “ new-branch had recent pushes less than a minute ago” at the top of the page and ‘compare and new pull request’ 
-### Add link to the ticket in the description
-### Add more context about the job in the description
-### Click on the big green button that says create pull request
-### Click on the big green button that says ‘merge pull request’ when changes have been compared, followed by ‘confirm merge’ 
-### Go ahead and delete the branch (might not always be the case)
+##### Go to the main repo and notice “ new-branch had recent pushes less than a minute ago” at the top of the page and ‘compare and new pull request’ 
+##### Add link to the ticket in the description
+##### Add more context about the job in the description
+##### Click on the big green button that says create pull request
+##### Click on the big green button that says ‘merge pull request’ when changes have been compared, followed by ‘confirm merge’ 
+##### Go ahead and delete the branch (might not always be the case)
 
 ### Step 6 - Updating the main branch
 
